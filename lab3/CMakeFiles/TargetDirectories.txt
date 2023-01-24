@@ -1,0 +1,3 @@
+/home/andrii/lab3/CMakeFiles/Lab3.dir
+/home/andrii/lab3/CMakeFiles/edit_cache.dir
+/home/andrii/lab3/CMakeFiles/rebuild_cache.dir
